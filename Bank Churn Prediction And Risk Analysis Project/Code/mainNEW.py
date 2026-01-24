@@ -63,8 +63,9 @@ else:
     predictions = model.predict(transformed_input)
     input_data["Exited"] = predictions
 
-    input_data.to_csv("Test output Data.csv", index=False)
+    input_data.to_csv("Test Output Data.csv", index=False)
     print("Inference complete. Results are saved to output.csv")
+
 
 
 
