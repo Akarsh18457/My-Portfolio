@@ -34,7 +34,7 @@ if not os.path.exists(MODEL_FILE):
 
     split = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
     for train_index, test_index in split.split(churn, churn["Age_cat"]):
-        churn.loc[test_index].drop("Age_cat", axis=1).to_csv("input.csv", index=False)
+        churn.loc[test_index].drop("Age_cat", axis=1).to_csv("Test Data.csv", index=False)
         churn = churn.loc[train_index].drop("Age_cat", axis=1)
 
     churn_labels = churn["Exited"].copy()
@@ -63,7 +63,8 @@ else:
     predictions = model.predict(transformed_input)
     input_data["Exited"] = predictions
 
-    input_data.to_csv("output.csv", index=False)
+    input_data.to_csv("Test output Data.csv", index=False)
     print("Inference complete. Results are saved to output.csv")
+
 
 
