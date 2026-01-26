@@ -1,41 +1,41 @@
-# 🏡 California House Price Prediction
+🏡 California House Price Prediction
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?style=flat&logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Completed_(First_Project)-green)
+[Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+[Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?style=flat&logo=scikit-learn)
+[Status](https://img.shields.io/badge/Status-Completed_(First_Project)-green)
 
-## 📌 Introduction
-Welcome to my **first Machine Learning project**! 🚀
+📌 Introduction
+Welcome to my "first Machine Learning project!" 🚀
 
-The goal of this project was to build a regression model that predicts median housing prices in California districts. As a beginner in Data Science, I focused on understanding the core workflow of an ML project: exploring data, handling missing values, and training a **Random Forest Regressor** to make predictions.
+The goal of this project was to build a regression model that predicts median housing prices in California districts. As a beginner in Data Science, I focused on understanding the core workflow of an ML project: exploring data, handling missing values, and training a 'Random Forest Regressor' to make predictions.
 
 This project serves as a foundational step in my journey toward mastering Data Science and Analytics.
 
-## 📂 The Dataset
-I used the standard **California Housing Dataset** (based on the 1990 California Census).
-* **Rows:** ~20,640
-* **Features:** 10 (including `Longitude`, `Latitude`, `MedianIncome`, `TotalRooms`, etc.)
-* **Target Variable:** `MedianHouseValue`
+📂 The Dataset
+I used the standard California Housing Dataset (based on the 1990 California Census).
+ *Rows: ~20,640
+ *Features: 10 (including `Longitude`, `Latitude`, `MedianIncome`, `TotalRooms`, etc.)
+ *Target Variable: `MedianHouseValue`
 
-## 🛠️ Technologies Used
-* **Python:** Core programming language.
-* **Pandas:** For data manipulation and analysis.
-* **NumPy:** For numerical operations.
-* **Matplotlib/Seaborn:** For visualizing data correlations and distributions.
-* **Scikit-Learn:** For splitting data, training the model, and evaluating performance.
+🛠️ Technologies Used
+ * Python: Core programming language.
+ * Pandas: For data manipulation and analysis.
+ * NumPy: For numerical operations.
+ * Matplotlib/Seaborn: For visualizing data correlations and distributions.
+ * Scikit-Learn: For splitting data, training the model, and evaluating performance.
 
-## ⚙️ Project Workflow
+⚙️ Project Workflow
 Since this was my first project, I followed a structured standard pipeline:
-1.  **Data Loading:** Imported the dataset using Pandas.
-2.  **Data Cleaning:** Checked for missing values and handled them appropriately.
-3.  **Exploratory Data Analysis (EDA):** Visualized correlations (e.g., seeing how *Median Income* affects *House Prices*).
-4.  **Model Training:** Used a **Random Forest Regressor**, which is robust and handles non-linear data well.
-5.  **Evaluation:** Tested the model on unseen data to check its accuracy.
+ 1.  Data Loading: Imported the dataset using Pandas.
+ 2.  Data Cleaning: Checked for missing values and handled them appropriately.
+ 3.  Exploratory Data Analysis (EDA): Visualized correlations (e.g., seeing how *Median Income* affects *House Prices*).
+ 4.  Model Training: Used a Random Forest Regressor, which is robust and handles non-linear data well.
+ 5.  Evaluation: Tested the model on unseen data to check its accuracy.
 
-## 📊 Model Performance
-I evaluated the model using **RMSE** (Root Mean Squared Error) ~ 18K which indicates that features contain strong predictive signals and that non-linear relationships matter.
+📊 Model Performance
+ I evaluated the model using RMSE (Root Mean Squared Error) ~ 18K which indicates that features contain strong predictive signals and that non-linear relationships matter.
 
-* **Model Used:** Random Forest Regressor
-* **Performance:** The model successfully captures the general trend of housing prices, though there is room for optimization as I learn more about Hyperparameter Tuning.
+Model Used: Random Forest Regressor
+* Performance: The model successfully captures the general trend of housing prices, though there is room for optimization as I learn more about Hyperparameter Tuning.
 
 *Created by [Akarsh Jain](https://github.com/Akarsh18457) - Exploring the world of Data Science.*
