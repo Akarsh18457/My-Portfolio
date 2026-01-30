@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Churn Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bank Churn Prediction</h1>
+            <p>Enter customer details to predict if they will churn or stay</p>
+        </header>
+        
+        <main>
+            <form action="{{ url_for('predict') }}" method="POST">
+                <div class="form-section">
+                    <h2>Customer Information</h2>
+                    
+                    <div class="form-group">
+                        <label for="CreditScore">Credit Score</label>
+                        <input type="number" id="CreditScore" name="CreditScore" min="300" max="850" required placeholder="Enter credit score">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Age">Age</label>
+                        <input type="number" id="Age" name="Age" min="18" max="100" required placeholder="Enter age">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Tenure">Tenure (Years with Bank)</label>
+                        <input type="number" id="Tenure" name="Tenure" min="0" max="50" required placeholder="Enter tenure">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Balance">Balance</label>
+                        <input type="number" id="Balance" name="Balance" min="0" step="0.01" required placeholder="Enter balance">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="NumOfProducts">Number of Products</label>
+                        <input type="number" id="NumOfProducts" name="NumOfProducts" min="1" max="10" required placeholder="Enter number of products">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="HasCrCard">Has Credit Card</label>
+                        <select id="HasCrCard" name="HasCrCard" required>
+                            <option value="">Select option</option>
+                            <option value="1">Yes</option>
+                            <option value="0">No</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="IsActiveMember">Is Active Member</label>
+                        <select id="IsActiveMember" name="IsActiveMember" required>
+                            <option value="">Select option</option>
+                            <option value="1">Yes</option>
+                            <option value="0">No</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="EstimatedSalary">Estimated Salary</label>
+                        <input type="number" id="EstimatedSalary" name="EstimatedSalary" min="0" step="0.01" required placeholder="Enter estimated salary">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Geography">Geography</label>
+                        <select id="Geography" name="Geography" required>
+                            <option value="">Select country</option>
+                            <option value="France">France</option>
+                            <option value="Germany">Germany</option>
+                            <option value="Spain">Spain</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Gender">Gender</label>
+                        <select id="Gender" name="Gender" required>
+                            <option value="">Select gender</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <button type="submit" class="submit-btn">Predict Churn</button>
+            </form>
+            
+            {% if error %}
+            <div class="error-message">
+                <p>{{ error }}</p>
+            </div>
+            {% endif %}
+            
+            {% if show_result %}
+            <div class="result-container {% if 'Churn' in prediction %}churn{% else %}stay{% endif %}">
+                <h2>Prediction Result</h2>
+                <div class="result-content">
+                    <p class="prediction">{{ prediction }}</p>
+                    <p class="confidence">Confidence: {{ confidence }}%</p>
+                </div>
+            </div>
+            {% endif %}
+        </main>
+        
+        <footer>
+            <p>Bank Churn Prediction & Risk Analysis Project</p>
+        </footer>
+    </div>
+</body>
+</html>
