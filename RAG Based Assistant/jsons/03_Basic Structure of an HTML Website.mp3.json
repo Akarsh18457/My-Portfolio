@@ -1,0 +1,2259 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 0.0,
+            "end": 3.68,
+            "text": " What's up guys, you are back to the Sigma web development course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 3.68,
+            "end": 7.24,
+            "text": " I am really very happy that you all have given so much love to this course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 7.24,
+            "end": 9.32,
+            "text": " Like this course with high energy."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 9.32,
+            "end": 13.040000000000001,
+            "text": " Because for a Sigma free course, you need to like the Sigma chats."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 13.040000000000001,
+            "end": 17.52,
+            "text": " In today's video, I will explain you the basic structure of a website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 17.52,
+            "end": 20.68,
+            "text": " Along with that, I will tell you a mobile trick"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 20.68,
+            "end": 25.72,
+            "text": " which will help you to know how to preview your website on your phone."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 25.72,
+            "end": 28.560000000000002,
+            "text": " I have a request from you all that you all write in the comment section"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 28.56,
+            "end": 30.56,
+            "text": " whether you know HTML or not."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 30.56,
+            "end": 32.56,
+            "text": " That will help me structure this course better."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 32.56,
+            "end": 35.44,
+            "text": " In this video, I will tell you the impact of chat GPT."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 35.44,
+            "end": 38.4,
+            "text": " Because there are a lot of talks going on about chat GPT these days."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 38.4,
+            "end": 41.0,
+            "text": " In the coming videos, I am going to give you a quiz."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 41.0,
+            "end": 44.28,
+            "text": " So understand this video very carefully and learn all the concepts."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 44.28,
+            "end": 45.76,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 45.76,
+            "end": 47.239999999999995,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 55.72,
+            "end": 57.72,
+            "text": " So guys, I have come inside my computer screen."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 57.76,
+            "end": 62.4,
+            "text": " And now we will talk about how to create a layout of a website"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 62.4,
+            "end": 64.4,
+            "text": " based on opening text, closing text, and structure."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 64.4,
+            "end": 68.0,
+            "text": " So here I will create a folder named video3."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 68.0,
+            "end": 70.36,
+            "text": " New folder, video3."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 70.36,
+            "end": 73.68,
+            "text": " And in video3, I will open it by right-clicking and selecting open with code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 73.68,
+            "end": 77.64,
+            "text": " And here you can see that my theme is blue."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 77.64,
+            "end": 79.8,
+            "text": " And many people said that blue theme is not good."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 79.8,
+            "end": 82.12,
+            "text": " Now see, the theme is your own choice."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 82.12,
+            "end": 84.12,
+            "text": " If you want to change the color theme,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 84.12,
+            "end": 86.64,
+            "text": " then you can change your color theme."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 86.64,
+            "end": 89.76,
+            "text": " If you want to use GitHub dark, then you can use GitHub dark."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 89.76,
+            "end": 90.52,
+            "text": " It's your choice."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 90.52,
+            "end": 93.92,
+            "text": " To create a new file, I will put index.html here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 93.92,
+            "end": 97.92,
+            "text": " We had already talked about it that if I write the title of the page here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 97.92,
+            "end": 102.24,
+            "text": " and write content here, and then using the link tag here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 102.24,
+            "end": 106.32,
+            "text": " I can use Emmet here and link style.css."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 106.32,
+            "end": 109.44,
+            "text": " I am doing it so fast because we have already talked about it in the last video."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 109.44,
+            "end": 112.76,
+            "text": " And if I write script.js here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 112.76,
+            "end": 115.36,
+            "text": " and if I write let us say alert hello here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 115.36,
+            "end": 119.48,
+            "text": " then I will not tell you again and again that if I put a script tag here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 119.48,
+            "end": 125.64,
+            "text": " just before the body, and then I put script.js here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 125.64,
+            "end": 128.56,
+            "text": " and then I click here and open with browser,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 128.56,
+            "end": 131.88,
+            "text": " then this hello will come, and if I make the background of the body red here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 131.88,
+            "end": 132.76,
+            "text": " then it will become red."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 132.76,
+            "end": 136.8,
+            "text": " I will not tell you all this, because I have already told you this."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 136.8,
+            "end": 140.6,
+            "text": " Now I will tell you that what does this structure mean?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 140.6,
+            "end": 141.88,
+            "text": " Why did I write it so big?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 141.88,
+            "end": 146.07999999999998,
+            "text": " This is a doubt for a beginner that we can't write this title and content directly,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 146.07999999999998,
+            "end": 148.2,
+            "text": " what is the need to write so much?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 148.2,
+            "end": 150.68,
+            "text": " So I will tell you what is the need to write so much?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 150.68,
+            "end": 153.28,
+            "text": " I will reload it, see the content that we had here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 153.28,
+            "end": 155.44,
+            "text": " it came and it became red here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 155.44,
+            "end": 158.04,
+            "text": " Now here you saw that I needed to reload the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 158.04,
+            "end": 160.88,
+            "text": " Many of you will ask why did I need to reload?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 160.88,
+            "end": 164.72,
+            "text": " When it already reloads live, so I changed the CSS file."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 164.72,
+            "end": 166.44,
+            "text": " When I change the CSS file,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 166.44,
+            "end": 168.28,
+            "text": " at times we need to reload."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 168.28,
+            "end": 170.6,
+            "text": " If you are making changes in the HTML file,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 170.6,
+            "end": 174.4,
+            "text": " then you don't need to reload the changes in the HTML file."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 174.4,
+            "end": 178.68,
+            "text": " Now here what I will do is I will come back and explain to you."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 178.68,
+            "end": 181.76,
+            "text": " This is a basic structure of any HTML website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 181.76,
+            "end": 184.08,
+            "text": " First of all, we write doc-type HTML,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 184.08,
+            "end": 185.68,
+            "text": " then we write HTML tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 185.68,
+            "end": 187.4,
+            "text": " Now see this is the opening tag of HTML tag,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 187.4,
+            "end": 188.4,
+            "text": " this is the closing tag,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 188.4,
+            "end": 189.68,
+            "text": " this is the opening tag of body,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 189.68,
+            "end": 190.68,
+            "text": " this is the closing tag,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 190.68,
+            "end": 192.28,
+            "text": " this is the opening tag of head,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 192.28,
+            "end": 193.28,
+            "text": " this is the closing tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 193.28,
+            "end": 195.96,
+            "text": " That is, whatever is inside it is the content of head."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 195.96,
+            "end": 197.4,
+            "text": " Whatever is inside the HTML,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 197.4,
+            "end": 199.28,
+            "text": " that is the content of HTML."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 199.28,
+            "end": 202.56,
+            "text": " Accordingly, whatever is inside the title is the content of the title."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 202.56,
+            "end": 204.64000000000001,
+            "text": " Now you will say what is the content of meta?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 204.64000000000001,
+            "end": 207.24,
+            "text": " So meta is a self-closing tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 207.24,
+            "end": 208.64000000000001,
+            "text": " There are two types of tags in HTML,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 208.64000000000001,
+            "end": 211.12,
+            "text": " one is the self-closing tag and one is the pair tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 211.12,
+            "end": 214.72,
+            "text": " What happens in pair tag is that your opening tag is the closing tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 214.72,
+            "end": 216.96,
+            "text": " So this is the basic structure of the HTML website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 216.96,
+            "end": 219.04000000000002,
+            "text": " Now here you saw that the background has turned red."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 219.04000000000002,
+            "end": 220.8,
+            "text": " Who is this background turning red?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 220.8,
+            "end": 222.36,
+            "text": " This is happening because of CSS."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 222.36,
+            "end": 225.92000000000002,
+            "text": " If I remove CSS from here and tell CSS to remove it quickly,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 226.11999999999998,
+            "end": 227.6,
+            "text": " what will I say to CSS?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 227.6,
+            "end": 229.11999999999998,
+            "text": " Remove it quickly."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 229.11999999999998,
+            "end": 231.39999999999998,
+            "text": " And as soon as I tell CSS to remove it quickly,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 231.39999999999998,
+            "end": 232.6,
+            "text": " it will have to move from here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 232.6,
+            "end": 233.6,
+            "text": " I will reload the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 233.6,
+            "end": 235.39999999999998,
+            "text": " So you can see that it has moved here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 235.39999999999998,
+            "end": 239.2,
+            "text": " Similarly, I can also tell JavaScript to remove it quickly."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 239.2,
+            "end": 240.39999999999998,
+            "text": " Now see, if I say from here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 240.39999999999998,
+            "end": 241.39999999999998,
+            "text": " the alert will also stop."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 241.39999999999998,
+            "end": 242.0,
+            "text": " Okay?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 242.0,
+            "end": 243.79999999999998,
+            "text": " So you see, if I reload now,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 243.79999999999998,
+            "end": 244.79999999999998,
+            "text": " the alert will also stop."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 244.79999999999998,
+            "end": 249.0,
+            "text": " So the CSS and JavaScript I added in the HTML content,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 249.0,
+            "end": 252.6,
+            "text": " this is additionally CSS and JavaScript functionalities"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 252.6,
+            "end": 255.6,
+            "text": " we used to link with this HTML page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 255.6,
+            "end": 257.6,
+            "text": " Now I have already told you about the title tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 257.6,
+            "end": 260.0,
+            "text": " This page is used to set the title."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 260.0,
+            "end": 263.2,
+            "text": " Now the only purpose of this is that you see the title here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 263.2,
+            "end": 265.0,
+            "text": " The search engines that are there,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 265.0,
+            "end": 266.48,
+            "text": " they also use it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 266.48,
+            "end": 268.2,
+            "text": " That is, the search engines like Google,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 268.2,
+            "end": 269.28,
+            "text": " if you write here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 269.28,
+            "end": 271.8,
+            "text": " Code with Harry HTML,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 271.8,
+            "end": 273.88,
+            "text": " then the HTML introduction of Code with Harry,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 273.88,
+            "end": 274.8,
+            "text": " HTML working,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 274.8,
+            "end": 276.68,
+            "text": " all these titles I have put on the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 276.68,
+            "end": 277.68,
+            "text": " You see here above,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 277.68,
+            "end": 278.68,
+            "text": " HTML introduction,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 278.68,
+            "end": 279.88,
+            "text": " this is the title of the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 279.88,
+            "end": 283.28,
+            "text": " So these titles of the page are used by search engines"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 283.28,
+            "end": 284.68,
+            "text": " and are parsed."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 284.76,
+            "end": 286.76,
+            "text": " Now if I change the page here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 286.76,
+            "end": 288.76,
+            "text": " then the HTML title is working here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 288.76,
+            "end": 290.36,
+            "text": " Now I will change the page again,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 290.36,
+            "end": 292.56,
+            "text": " you see here the HTML installation has been done."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 292.56,
+            "end": 294.76,
+            "text": " So the titles keep changing."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 294.76,
+            "end": 296.76,
+            "text": " Along with that, as I keep changing it,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 296.76,
+            "end": 297.76,
+            "text": " it will keep changing,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 297.76,
+            "end": 298.76,
+            "text": " it will keep happening,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 298.76,
+            "end": 299.76,
+            "text": " as you can see."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 299.76,
+            "end": 300.56,
+            "text": " Okay?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 300.56,
+            "end": 303.56,
+            "text": " So the title of HTML pages does not mean"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 303.56,
+            "end": 305.76,
+            "text": " just that you see this above,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 305.76,
+            "end": 307.56,
+            "text": " it is also very useful in SEO."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 307.56,
+            "end": 310.56,
+            "text": " And they tell what is the content inside the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 310.56,
+            "end": 312.96000000000004,
+            "text": " So they describe the content of the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 313.03999999999996,
+            "end": 315.23999999999995,
+            "text": " Like I am getting to know what is HTML execution here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 315.23999999999995,
+            "end": 316.44,
+            "text": " HTML execution means"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 316.44,
+            "end": 317.64,
+            "text": " how HTML is being executed,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 317.64,
+            "end": 319.23999999999995,
+            "text": " I am being told about this page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 319.23999999999995,
+            "end": 321.84,
+            "text": " So changing the title of the page is a very good SEO practice."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 321.84,
+            "end": 323.84,
+            "text": " So we will make a website from any framework,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 323.84,
+            "end": 325.44,
+            "text": " we will keep changing the title of the page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 325.44,
+            "end": 326.84,
+            "text": " Now here is the head section,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 326.84,
+            "end": 329.03999999999996,
+            "text": " the metadata of the page is inside the head section."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 329.03999999999996,
+            "end": 330.03999999999996,
+            "text": " Like the title is done,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 330.03999999999996,
+            "end": 333.44,
+            "text": " and which script do you want to link,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 333.44,
+            "end": 334.44,
+            "text": " that is done."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 334.44,
+            "end": 336.64,
+            "text": " Along with that, there are other meta tags"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 336.64,
+            "end": 338.03999999999996,
+            "text": " about which I will tell you later."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 338.03999999999996,
+            "end": 340.03999999999996,
+            "text": " Meta tags basically mean"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 340.12,
+            "end": 342.12,
+            "text": " that how is the HTML document,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 342.12,
+            "end": 343.12,
+            "text": " it is told about it,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 343.12,
+            "end": 344.12,
+            "text": " keywords are added,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 344.12,
+            "end": 345.12,
+            "text": " descriptions are added."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 345.12,
+            "end": 349.32,
+            "text": " Meta description is a very important keyword for SEO."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 349.32,
+            "end": 351.92,
+            "text": " That is, you can write about what this page is about."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 351.92,
+            "end": 353.12,
+            "text": " If you go to my website,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 353.12,
+            "end": 355.52000000000004,
+            "text": " then you will get to see here in view page source"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 355.52000000000004,
+            "end": 358.12,
+            "text": " that the meta description tag is attached."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 358.12,
+            "end": 359.12,
+            "text": " This is compressed HTML,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 359.12,
+            "end": 360.32000000000005,
+            "text": " so don't be confused by this."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 360.32000000000005,
+            "end": 362.92,
+            "text": " But here you can see that the meta description tag is attached,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 362.92,
+            "end": 364.12,
+            "text": " which describes this page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 364.12,
+            "end": 365.52000000000004,
+            "text": " If we talk about Google,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 365.52000000000004,
+            "end": 367.52000000000004,
+            "text": " then Google shows the meta description here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 367.52000000000004,
+            "end": 369.12,
+            "text": " Now I want to show you people"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 369.2,
+            "end": 373.0,
+            "text": " that what happens inside the doc type HTML head,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 373.0,
+            "end": 376.0,
+            "text": " that the meta tags, title tags, script tags,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 376.0,
+            "end": 378.0,
+            "text": " link tags of the page are also there."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 378.0,
+            "end": 379.0,
+            "text": " So now the script tag,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " you can put it just before the body,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 381.0,
+            "end": 382.0,
+            "text": " and you can put it above too."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 382.0,
+            "end": 383.0,
+            "text": " And what is the difference in this,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " we will talk about it in the next course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 385.0,
+            "end": 386.0,
+            "text": " But here you can see"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 386.0,
+            "end": 389.0,
+            "text": " that I used the link and added CSS again."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " Then after this, the body is the main content of the website,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " which you can see on this page."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " So what you will see on this page,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " that will be the body."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " Whatever you put inside the body,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 399.88,
+            "end": 400.88,
+            "text": " and whatever script you put,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 400.88,
+            "end": 401.88,
+            "text": " it will be executed."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 401.88,
+            "end": 403.88,
+            "text": " Now by putting a script here"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 403.88,
+            "end": 405.88,
+            "text": " and by putting a script in the head,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 405.88,
+            "end": 406.88,
+            "text": " what will happen,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 406.88,
+            "end": 407.88,
+            "text": " I will tell you in the course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 407.88,
+            "end": 410.88,
+            "text": " But this is a basic structure of the HTML website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 410.88,
+            "end": 412.88,
+            "text": " Lang is equal to en is an attribute."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 412.88,
+            "end": 414.88,
+            "text": " This is inside any tag,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 414.88,
+            "end": 416.88,
+            "text": " if you do lang is equal to en,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 416.88,
+            "end": 418.88,
+            "text": " then lang is an attribute whose value is en."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 418.88,
+            "end": 419.88,
+            "text": " So these key value pairs are used,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 419.88,
+            "end": 421.88,
+            "text": " which tell about this tag."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 421.88,
+            "end": 422.88,
+            "text": " Like in the meta tag,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 422.88,
+            "end": 424.88,
+            "text": " name is equal to description is used."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 424.88,
+            "end": 426.88,
+            "text": " So the name is equal to description is an attribute."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 426.88,
+            "end": 428.88,
+            "text": " And if you hover in VS Code,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 429.76,
+            "end": 430.76,
+            "text": " it will tell you many things about it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 430.76,
+            "end": 431.76,
+            "text": " See I hovered on the name,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 431.76,
+            "end": 433.76,
+            "text": " so it is telling about this attribute,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 433.76,
+            "end": 434.76,
+            "text": " that why this attribute is used,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 434.76,
+            "end": 435.76,
+            "text": " how it is used."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 435.76,
+            "end": 438.76,
+            "text": " Now most of the content inside the body,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 438.76,
+            "end": 439.76,
+            "text": " mostly the HTML raw,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 439.76,
+            "end": 440.76,
+            "text": " you will copy it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 440.76,
+            "end": 443.76,
+            "text": " Mostly from websites like codewithari.com,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 443.76,
+            "end": 445.76,
+            "text": " you will come here and copy the source code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 445.76,
+            "end": 447.76,
+            "text": " Like if I talk about forms,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 447.76,
+            "end": 449.76,
+            "text": " then you will come to this page of HTML forms,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 449.76,
+            "end": 450.76,
+            "text": " you will copy it from here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 450.76,
+            "end": 451.76,
+            "text": " and you will start making your form,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 451.76,
+            "end": 452.76,
+            "text": " and you will modify it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 452.76,
+            "end": 455.76,
+            "text": " So copying and pasting is very important,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 455.76,
+            "end": 456.76,
+            "text": " according to me."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 456.76,
+            "end": 457.76,
+            "text": " As a senior developer,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 458.64,
+            "end": 459.64,
+            "text": " you should know where to copy and paste,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 459.64,
+            "end": 460.64,
+            "text": " and when to copy and paste."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 460.64,
+            "end": 461.64,
+            "text": " And I am not saying this sarcastically."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 461.64,
+            "end": 463.64,
+            "text": " Okay, I am not saying sarcastically."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 463.64,
+            "end": 464.64,
+            "text": " This thing will always be the same."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 464.64,
+            "end": 466.64,
+            "text": " Now you type it or copy and paste it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 466.64,
+            "end": 468.64,
+            "text": " Obviously, you will prefer to copy and paste it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 468.64,
+            "end": 470.64,
+            "text": " Because this change is not going to happen."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 470.64,
+            "end": 471.64,
+            "text": " The form will remain the same."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 471.64,
+            "end": 473.64,
+            "text": " And if you copy and paste,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 473.64,
+            "end": 474.64,
+            "text": " then your time will be saved."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 474.64,
+            "end": 475.64,
+            "text": " Then innovation,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 475.64,
+            "end": 476.64,
+            "text": " you have to put your mind where,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 476.64,
+            "end": 478.64,
+            "text": " which cannot be copied and pasted."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 478.64,
+            "end": 480.64,
+            "text": " So you understand it as a sigma rule,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 480.64,
+            "end": 482.64,
+            "text": " that you will copy and paste,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 482.64,
+            "end": 484.64,
+            "text": " that thing which has to be copied and pasted."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 484.64,
+            "end": 486.64,
+            "text": " And where you have to put your mind,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 486.64,
+            "end": 487.64,
+            "text": " that cannot be copied and pasted."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 488.52,
+            "end": 489.52,
+            "text": " So you will save time and put your mind there."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 491.52,
+            "end": 494.52,
+            "text": " The most important part of being a senior software developer,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 494.52,
+            "end": 496.52,
+            "text": " is to where to copy and paste from,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 496.52,
+            "end": 498.52,
+            "text": " which stack overflow question to copy and paste from,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 498.52,
+            "end": 500.52,
+            "text": " and how to paste it from where,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 500.52,
+            "end": 503.52,
+            "text": " copyright code with ID 2024-25-26,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 503.52,
+            "end": 504.52,
+            "text": " whatever it is, you understand."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 504.52,
+            "end": 506.52,
+            "text": " I have said my copyright statement,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 506.52,
+            "end": 508.52,
+            "text": " but this statement has a lot of power."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 508.52,
+            "end": 511.52,
+            "text": " Now I will tell you about a technique,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 511.52,
+            "end": 513.52,
+            "text": " with which you can develop this website,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 513.52,
+            "end": 514.52,
+            "text": " whatever we will develop here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 514.52,
+            "end": 516.52,
+            "text": " you will be able to see it in this mobile."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 517.4,
+            "end": 518.4,
+            "text": " Now listen to the steps carefully."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 518.4,
+            "end": 520.4,
+            "text": " Right click, open terminal,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 520.4,
+            "end": 521.4,
+            "text": " and write ipconfig."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 521.4,
+            "end": 522.4,
+            "text": " If you are in the old version,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 522.4,
+            "end": 524.4,
+            "text": " then you can open command prompt or powershell."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 524.4,
+            "end": 525.4,
+            "text": " After writing ipconfig,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 525.4,
+            "end": 526.4,
+            "text": " as soon as you hit enter,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 526.4,
+            "end": 527.4,
+            "text": " you will see here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 527.4,
+            "end": 529.4,
+            "text": " you will see ipv4 address,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 529.4,
+            "end": 531.4,
+            "text": " 192.168.1.199."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 531.4,
+            "end": 533.4,
+            "text": " Now the IP address we have got here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 533.4,
+            "end": 535.4,
+            "text": " I will copy it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 535.4,
+            "end": 537.4,
+            "text": " So I will copy this IPv4 address,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 537.4,
+            "end": 539.4,
+            "text": " and in my settings, I will write,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 539.4,
+            "end": 541.4,
+            "text": " live preview."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 541.4,
+            "end": 543.4,
+            "text": " The local IP address to host your files on,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 543.4,
+            "end": 544.4,
+            "text": " this is written,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 545.28,
+            "end": 547.28,
+            "text": " I will write my IP address here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 547.28,
+            "end": 548.28,
+            "text": " After doing this,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 548.28,
+            "end": 550.28,
+            "text": " I will restart my VS code."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 550.28,
+            "end": 552.28,
+            "text": " You have to ensure one more thing,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 552.28,
+            "end": 554.28,
+            "text": " that you go to your wifi settings,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 554.28,
+            "end": 556.28,
+            "text": " and make your network a private network."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 556.28,
+            "end": 558.28,
+            "text": " It should not be a public network,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 558.28,
+            "end": 559.28,
+            "text": " it should be a private network."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 559.28,
+            "end": 560.28,
+            "text": " Network and internet,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 560.28,
+            "end": 562.28,
+            "text": " wifi, whichever wifi you are connected to,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 562.28,
+            "end": 563.28,
+            "text": " make it a private network."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 563.28,
+            "end": 565.28,
+            "text": " Now you will right click,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 565.28,
+            "end": 566.28,
+            "text": " and do show preview."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 566.28,
+            "end": 567.28,
+            "text": " So you will see here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 567.28,
+            "end": 568.28,
+            "text": " you will see your IP address,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 568.28,
+            "end": 570.28,
+            "text": " slash index.html."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 570.28,
+            "end": 572.28,
+            "text": " I can use this on my phone too."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 572.28,
+            "end": 574.28,
+            "text": " So I will quickly put this IP address here."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 575.16,
+            "end": 577.16,
+            "text": " So I have put 192.168.1.199"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 577.16,
+            "end": 579.16,
+            "text": " colon 5000."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 579.16,
+            "end": 580.16,
+            "text": " You can put 3000 too."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 580.16,
+            "end": 581.16,
+            "text": " Whatever your port is,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 581.16,
+            "end": 582.16,
+            "text": " you can put that."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 582.16,
+            "end": 584.16,
+            "text": " And here you can see,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 584.16,
+            "end": 586.16,
+            "text": " my website has been previewed on my mobile."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 586.16,
+            "end": 588.16,
+            "text": " This trick is very useful,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 588.16,
+            "end": 590.16,
+            "text": " when we want to preview on our mobile."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 590.16,
+            "end": 591.16,
+            "text": " Because nowadays,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 591.16,
+            "end": 593.16,
+            "text": " most of the websites are viewed on the phone."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 593.16,
+            "end": 595.16,
+            "text": " So we want our phone users,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 595.16,
+            "end": 598.16,
+            "text": " to enjoy our website."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 598.16,
+            "end": 600.16,
+            "text": " And we are developing in the computer,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 600.16,
+            "end": 602.16,
+            "text": " so that testing will be done."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 602.16,
+            "end": 604.16,
+            "text": " Now if you have not reviewed in the first video,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 605.04,
+            "end": 607.04,
+            "text": " then I will request you,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 607.04,
+            "end": 609.04,
+            "text": " to review your course in the first video."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 609.04,
+            "end": 611.04,
+            "text": " I told you in the last video,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 611.04,
+            "end": 612.04,
+            "text": " to review it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 612.04,
+            "end": 613.04,
+            "text": " Put an initial review."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 613.04,
+            "end": 614.04,
+            "text": " How did you feel after seeing so many courses?"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 614.04,
+            "end": 615.04,
+            "text": " Now write initial review there."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 615.04,
+            "end": 617.04,
+            "text": " As soon as you write initial review,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 617.04,
+            "end": 618.04,
+            "text": " people will know,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 618.04,
+            "end": 620.04,
+            "text": " what is the initial review of this course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 620.04,
+            "end": 621.04,
+            "text": " You give me 5 stars,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 621.04,
+            "end": 622.04,
+            "text": " along with that,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 622.04,
+            "end": 623.04,
+            "text": " from the playlist description,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 623.04,
+            "end": 624.04,
+            "text": " you must access it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 624.04,
+            "end": 626.04,
+            "text": " Click here and bookmark it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 626.04,
+            "end": 627.04,
+            "text": " Or click on the star,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 627.04,
+            "end": 628.04,
+            "text": " and it will be bookmarked."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 628.04,
+            "end": 630.04,
+            "text": " And it will start showing in your bookmarks."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 630.04,
+            "end": 631.04,
+            "text": " I have bookmarked it here,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 631.04,
+            "end": 633.04,
+            "text": " in the Sigma Web Development course."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 633.92,
+            "end": 635.92,
+            "text": " Very few people have accessed the playlist."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 635.92,
+            "end": 637.92,
+            "text": " So I want everyone to access this playlist."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 637.92,
+            "end": 639.92,
+            "text": " Bookmark it and save it."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 639.92,
+            "end": 640.92,
+            "text": " So access the playlist,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 640.92,
+            "end": 641.92,
+            "text": " like the video,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 641.92,
+            "end": 642.92,
+            "text": " and give your land,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 642.92,
+            "end": 643.92,
+            "text": " in my name."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 643.92,
+            "end": 644.92,
+            "text": " Thank you so much guys,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 644.92,
+            "end": 645.92,
+            "text": " for watching this video."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 645.92,
+            "end": 646.92,
+            "text": " And I will see you,"
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 646.92,
+            "end": 647.92,
+            "text": " next time."
+        },
+        {
+            "number": "3",
+            "title": "Basic Structure of an HTML Website",
+            "start": 663.04,
+            "end": 664.04,
+            "text": " Thank you."
+        }
+    ],
+    "text": " What's up guys, you are back to the Sigma web development course. I am really very happy that you all have given so much love to this course. Like this course with high energy. Because for a Sigma free course, you need to like the Sigma chats. In today's video, I will explain you the basic structure of a website. Along with that, I will tell you a mobile trick which will help you to know how to preview your website on your phone. I have a request from you all that you all write in the comment section whether you know HTML or not. That will help me structure this course better. In this video, I will tell you the impact of chat GPT. Because there are a lot of talks going on about chat GPT these days. In the coming videos, I am going to give you a quiz. So understand this video very carefully and learn all the concepts. Let's go to the computer screen. Let's roll the intro. So guys, I have come inside my computer screen. And now we will talk about how to create a layout of a website based on opening text, closing text, and structure. So here I will create a folder named video3. New folder, video3. And in video3, I will open it by right-clicking and selecting open with code. And here you can see that my theme is blue. And many people said that blue theme is not good. Now see, the theme is your own choice. If you want to change the color theme, then you can change your color theme. If you want to use GitHub dark, then you can use GitHub dark. It's your choice. To create a new file, I will put index.html here. We had already talked about it that if I write the title of the page here, and write content here, and then using the link tag here, I can use Emmet here and link style.css. I am doing it so fast because we have already talked about it in the last video. And if I write script.js here, and if I write let us say alert hello here, then I will not tell you again and again that if I put a script tag here, just before the body, and then I put script.js here, and then I click here and open with browser, then this hello will come, and if I make the background of the body red here, then it will become red. I will not tell you all this, because I have already told you this. Now I will tell you that what does this structure mean? Why did I write it so big? This is a doubt for a beginner that we can't write this title and content directly, what is the need to write so much? So I will tell you what is the need to write so much? I will reload it, see the content that we had here, it came and it became red here. Now here you saw that I needed to reload the page. Many of you will ask why did I need to reload? When it already reloads live, so I changed the CSS file. When I change the CSS file, at times we need to reload. If you are making changes in the HTML file, then you don't need to reload the changes in the HTML file. Now here what I will do is I will come back and explain to you. This is a basic structure of any HTML website. First of all, we write doc-type HTML, then we write HTML tag. Now see this is the opening tag of HTML tag, this is the closing tag, this is the opening tag of body, this is the closing tag, this is the opening tag of head, this is the closing tag. That is, whatever is inside it is the content of head. Whatever is inside the HTML, that is the content of HTML. Accordingly, whatever is inside the title is the content of the title. Now you will say what is the content of meta? So meta is a self-closing tag. There are two types of tags in HTML, one is the self-closing tag and one is the pair tag. What happens in pair tag is that your opening tag is the closing tag. So this is the basic structure of the HTML website. Now here you saw that the background has turned red. Who is this background turning red? This is happening because of CSS. If I remove CSS from here and tell CSS to remove it quickly, what will I say to CSS? Remove it quickly. And as soon as I tell CSS to remove it quickly, it will have to move from here. I will reload the page. So you can see that it has moved here. Similarly, I can also tell JavaScript to remove it quickly. Now see, if I say from here, the alert will also stop. Okay? So you see, if I reload now, the alert will also stop. So the CSS and JavaScript I added in the HTML content, this is additionally CSS and JavaScript functionalities we used to link with this HTML page. Now I have already told you about the title tag. This page is used to set the title. Now the only purpose of this is that you see the title here. The search engines that are there, they also use it. That is, the search engines like Google, if you write here, Code with Harry HTML, then the HTML introduction of Code with Harry, HTML working, all these titles I have put on the page. You see here above, HTML introduction, this is the title of the page. So these titles of the page are used by search engines and are parsed. Now if I change the page here, then the HTML title is working here. Now I will change the page again, you see here the HTML installation has been done. So the titles keep changing. Along with that, as I keep changing it, it will keep changing, it will keep happening, as you can see. Okay? So the title of HTML pages does not mean just that you see this above, it is also very useful in SEO. And they tell what is the content inside the page. So they describe the content of the page. Like I am getting to know what is HTML execution here. HTML execution means how HTML is being executed, I am being told about this page. So changing the title of the page is a very good SEO practice. So we will make a website from any framework, we will keep changing the title of the page. Now here is the head section, the metadata of the page is inside the head section. Like the title is done, and which script do you want to link, that is done. Along with that, there are other meta tags about which I will tell you later. Meta tags basically mean that how is the HTML document, it is told about it, keywords are added, descriptions are added. Meta description is a very important keyword for SEO. That is, you can write about what this page is about. If you go to my website, then you will get to see here in view page source that the meta description tag is attached. This is compressed HTML, so don't be confused by this. But here you can see that the meta description tag is attached, which describes this page. If we talk about Google, then Google shows the meta description here. Now I want to show you people that what happens inside the doc type HTML head, that the meta tags, title tags, script tags, link tags of the page are also there. So now the script tag, you can put it just before the body, and you can put it above too. And what is the difference in this, we will talk about it in the next course. But here you can see that I used the link and added CSS again. Then after this, the body is the main content of the website, which you can see on this page. So what you will see on this page, that will be the body. Whatever you put inside the body, and whatever script you put, it will be executed. Now by putting a script here and by putting a script in the head, what will happen, I will tell you in the course. But this is a basic structure of the HTML website. Lang is equal to en is an attribute. This is inside any tag, if you do lang is equal to en, then lang is an attribute whose value is en. So these key value pairs are used, which tell about this tag. Like in the meta tag, name is equal to description is used. So the name is equal to description is an attribute. And if you hover in VS Code, it will tell you many things about it. See I hovered on the name, so it is telling about this attribute, that why this attribute is used, how it is used. Now most of the content inside the body, mostly the HTML raw, you will copy it. Mostly from websites like codewithari.com, you will come here and copy the source code. Like if I talk about forms, then you will come to this page of HTML forms, you will copy it from here, and you will start making your form, and you will modify it. So copying and pasting is very important, according to me. As a senior developer, you should know where to copy and paste, and when to copy and paste. And I am not saying this sarcastically. Okay, I am not saying sarcastically. This thing will always be the same. Now you type it or copy and paste it. Obviously, you will prefer to copy and paste it. Because this change is not going to happen. The form will remain the same. And if you copy and paste, then your time will be saved. Then innovation, you have to put your mind where, which cannot be copied and pasted. So you understand it as a sigma rule, that you will copy and paste, that thing which has to be copied and pasted. And where you have to put your mind, that cannot be copied and pasted. So you will save time and put your mind there. The most important part of being a senior software developer, is to where to copy and paste from, which stack overflow question to copy and paste from, and how to paste it from where, copyright code with ID 2024-25-26, whatever it is, you understand. I have said my copyright statement, but this statement has a lot of power. Now I will tell you about a technique, with which you can develop this website, whatever we will develop here, you will be able to see it in this mobile. Now listen to the steps carefully. Right click, open terminal, and write ipconfig. If you are in the old version, then you can open command prompt or powershell. After writing ipconfig, as soon as you hit enter, you will see here, you will see ipv4 address, 192.168.1.199. Now the IP address we have got here, I will copy it. So I will copy this IPv4 address, and in my settings, I will write, live preview. The local IP address to host your files on, this is written, I will write my IP address here. After doing this, I will restart my VS code. You have to ensure one more thing, that you go to your wifi settings, and make your network a private network. It should not be a public network, it should be a private network. Network and internet, wifi, whichever wifi you are connected to, make it a private network. Now you will right click, and do show preview. So you will see here, you will see your IP address, slash index.html. I can use this on my phone too. So I will quickly put this IP address here. So I have put 192.168.1.199 colon 5000. You can put 3000 too. Whatever your port is, you can put that. And here you can see, my website has been previewed on my mobile. This trick is very useful, when we want to preview on our mobile. Because nowadays, most of the websites are viewed on the phone. So we want our phone users, to enjoy our website. And we are developing in the computer, so that testing will be done. Now if you have not reviewed in the first video, then I will request you, to review your course in the first video. I told you in the last video, to review it. Put an initial review. How did you feel after seeing so many courses? Now write initial review there. As soon as you write initial review, people will know, what is the initial review of this course. You give me 5 stars, along with that, from the playlist description, you must access it. Click here and bookmark it. Or click on the star, and it will be bookmarked. And it will start showing in your bookmarks. I have bookmarked it here, in the Sigma Web Development course. Very few people have accessed the playlist. So I want everyone to access this playlist. Bookmark it and save it. So access the playlist, like the video, and give your land, in my name. Thank you so much guys, for watching this video. And I will see you, next time. Thank you."
+}
