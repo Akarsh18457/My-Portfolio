@@ -1,18 +1,74 @@
-# How to use this RAG AI Teaching assistant on your own data
-## Step 1 - Collect your videos
-Move all your video files to the videos folder
+# 📚 RAG-Based AI Teaching Assistant
 
-## Step 2 - Convert to mp3
-Convert all the video files to mp3 by ruunning video_to_mp3
+An AI-powered Teaching Assistant built using **Retrieval-Augmented Generation (RAG)** that can answer questions from custom video-based learning content.
 
-## Step 3 - Convert mp3 to json 
-Convert all the mp3 files to json by ruunning mp3_to_json
+This project converts video lectures into searchable knowledge and uses embeddings + LLMs to generate accurate, context-aware responses.
 
-## Step 4 - Convert the json files to Vectors
-Use the file preprocess_json to convert the json files to a dataframe with Embeddings and save it as a joblib pickle
+---
 
-## Step 5 - Prompt generation and feeding to LLM
+## 🚀 Project Overview
 
-Read the joblib file and load it into the memory. Then create a relevant prompt as per the user query and feed it to the LLM
+This system enables users to interact with their own learning materials by asking questions in natural language. The assistant retrieves relevant content from processed lecture data and generates meaningful answers using an LLM.
 
+---
+
+## ⚙️ Pipeline Architecture
+
+The project follows a structured pipeline:
+
+### 1. 🎥 Data Collection
+- Store all lecture videos inside the `videos/` directory.
+
+### 2. 🔊 Audio Extraction
+- Convert video files to `.mp3` format using:
+  ```bash
+  video_to_mp3.py
+
+### 3. 📝 Speech-to-Text Conversion
+- Convert .mp3 files into structured .json transcripts:
+  ```bash
+  mp3_to_json.py
+
+### 4. 🧠 Embedding Generation
+- Process JSON transcripts into vector embeddings.
+- Store embeddings in a DataFrame and save as a .joblib file:
+    ```bash
+    embedding_gen.py
+
+### 5. 🤖 RAG-based Question Answering
+- Load embeddings into memory.
+- Retrieve relevant chunks based on user query.
+- Generate contextual responses using an LLM.
+
+
+### 🧩 Tech Stack
+- Python
+- NLP & Embeddings
+- Vector Similarity (Cosine Similarity)
+- Joblib (for storage)
+- LLM (via API/local model)
+- Speech-to-Text processing
+
+### 💡 Key Features
+- Converts video lectures → searchable knowledge base
+- Implements Retrieval-Augmented Generation (RAG)
+- Efficient semantic search using embeddings
+- Context-aware response generation
+- Modular and scalable pipeline
+
+### 📌 Use Cases
+- Personal AI tutor for course material
+- Knowledge assistant for recorded lectures
+- Internal training assistant for organizations
+
+### 📊 Future Improvements
+- Add UI (Streamlit / Web App)
+- Use vector databases (FAISS, Pinecone)
+- Improve chunking & retrieval strategies
+- Add multi-modal support (PDFs, notes)
+
+### 🏁 Conclusion
+
+- This project demonstrates how RAG can be applied to transform passive learning content into an interactive AI assistant, enabling smarter and more efficient learning experiences.
+    
 
