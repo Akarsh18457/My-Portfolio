@@ -1,0 +1,16 @@
+Segment,Date,Forecast
+Furniture (Category),2018-10-01,13219.5419921875
+Furniture (Category),2018-11-01,30072.517578125
+Furniture (Category),2018-12-01,32107.95703125
+Technology (Category),2018-10-01,22692.498046875
+Technology (Category),2018-11-01,27792.87890625
+Technology (Category),2018-12-01,22599.005859375
+Office Supplies (Category),2018-10-01,20062.466796875
+Office Supplies (Category),2018-11-01,21948.267578125
+Office Supplies (Category),2018-12-01,26283.19921875
+West (Region),2018-10-01,23165.5625
+West (Region),2018-11-01,21007.59375
+West (Region),2018-12-01,28887.873046875
+East (Region),2018-10-01,15863.509765625
+East (Region),2018-11-01,26130.59765625
+East (Region),2018-12-01,27727.720703125
